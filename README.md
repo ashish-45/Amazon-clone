@@ -1,9 +1,6 @@
-# **Amazon Clone with React JS for begginers :wave:**
-A small web app that tries to imitate the desktop web version of amazon site, you can add items to the basket, delete them, and have your user authentification feauture thanks to Firebase.
+Amazon-Clone
 
-This site was built using [Clever Programmer Tutorials](https://www.youtube.com/c/CleverProgrammer/videos)
-
-## **Steps for the tutorial**
+## **Steps**
 - [x] Demo App
 - [x] Set up React app using create-react-app
 - [x] Set up Firebase
@@ -17,5 +14,5 @@ This site was built using [Clever Programmer Tutorials](https://www.youtube.com/
 - [x] Deploy the App LIVE on Firebase
 
 ## **Sample of the web app**
-You can watch the site here [Click me!](https://clone-31d90.web.app/)
+You can watch the site here [Click me!](https://amazon-application.netlify.app/)
 
